@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Kim Dong-Gi</h1>
+<h1 align="center">Hi 👋, I'm Park hyungmin</h1>
 <h3 align="center">A passionate B.E developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keepConcentration&label=Profile%20views&color=0e75b6&style=flat" alt="kdkrkwhr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keepConcentration&label=Profile%20views&color=0e75b6&style=flat" alt="keepConcentration" /> </p>
 
-- 🔭 I’m currently working on [Spring-Boot Basic PRO](https://github.com/kdkrkwhr/spring-boot)
+<!-- 🔭 I’m currently working on []() -->
 
-- 🌱 I’m currently learning **Front-end technology with React**
+- 🌱 I’m currently learning **Front-end technology with JPA, QueryDsl**
 
-- 📝 I regularly write articles on [https://kdkrkwhr.github.io](https://kdkrkwhr.github.io)
+<!-- - 📝 I regularly write articles on []() -->
 
-- 📫 How to reach me **kdkdongki1997@gmail.com**
+- 📫 How to reach me **phm543@gmail.com**
 
-- 📄 Know about my experiences [Kim Dong-gi](https://www.linkedin.com/in/donggi-kim-027328188)
-
+- 📄 Know about my experiences [Park Hyungmin](https://www.linkedin.com/in/hyungmin-park-38b844196)
+-->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/donggi-kim-027328188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="donggi-kim-027328188" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hyungmin-park-38b844196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hyungmin-park-38b844196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -110,5 +110,5 @@
     </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&show_icons=true&locale=en" alt="kdkrkwhr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keepConcentration&show_icons=true&locale=en" alt="keepConcentration" /></p>
 
