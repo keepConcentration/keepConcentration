@@ -8,6 +8,8 @@ I’m passionate about learning, growing, and collaborating through open-source 
 ###  Open Source Contributions
 
 #### [apache/gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3AkeepConcentration)
+- [#8073] style(core): add missing space before = 0 in SQL condition - 2025-08  
+  PR: [#8077](https://github.com/apache/gravitino/pull/8077)
 - [#8032] fix(core): add soft delete condition to sort delete logic — 2025-08  
   PR: [#8072](https://github.com/apache/gravitino/pull/8072)
 
