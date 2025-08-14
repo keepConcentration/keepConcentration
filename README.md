@@ -8,10 +8,10 @@ I’m passionate about learning, growing, and collaborating through open-source 
 ###  Open Source Contributions
 
 #### [apache/gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3AkeepConcentration)
+- [#8073] style(core): add missing space before = 0 in SQL condition - 2025-08  
+  PR: [#8081](https://github.com/apache/gravitino/pull/8081)  
 - [#8055] improvement(core): Replace equals() with == for enum comparison in CompatibilityUtils - 2025-08  
   PR: [#8080](https://github.com/apache/gravitino/pull/8080)  
-- [#8073] style(core): add missing space before = 0 in SQL condition - 2025-08  
-  PR: [#8077](https://github.com/apache/gravitino/pull/8077)
 - [#8032] fix(core): add soft delete condition to sort delete logic — 2025-08  
   PR: [#8072](https://github.com/apache/gravitino/pull/8072)
 
