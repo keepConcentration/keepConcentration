@@ -8,6 +8,8 @@ I’m passionate about learning, growing, and collaborating through open-source 
 ###  Open Source Contributions
 
 #### [apache/gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3AkeepConcentration)
+- [#8109] improvement(core): correct PostgreSQL ON CONFLICT syntax using EXCLUDED instead of VALUES - 2025-08  
+  PR: [#8125](https://github.com/apache/gravitino/pull/8125)  
 - [#8073] style(core): add missing space before = 0 in SQL condition - 2025-08  
   PR: [#8081](https://github.com/apache/gravitino/pull/8081)  
 - [#8055] improvement(core): Replace equals() with == for enum comparison in CompatibilityUtils - 2025-08  
