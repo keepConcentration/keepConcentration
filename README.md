@@ -8,6 +8,8 @@ I’m passionate about learning, growing, and collaborating through open-source 
 ###  Open Source Contributions
 
 #### [apache/gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3AkeepConcentration)
+- [#8159] improvement(cli): Use toType() instead of toBasicType() for support more complex types - 2025-08  
+  PR: [#8227](https://github.com/apache/gravitino/pull/8227)  
 - [#8109] improvement(core): correct PostgreSQL ON CONFLICT syntax using EXCLUDED instead of VALUES - 2025-08  
   PR: [#8125](https://github.com/apache/gravitino/pull/8125)  
 - [#8073] style(core): add missing space before = 0 in SQL condition - 2025-08  
