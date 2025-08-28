@@ -8,6 +8,8 @@ I’m passionate about learning, growing, and collaborating through open-source 
 ###  Open Source Contributions
 
 #### [apache/gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3AkeepConcentration)
+- [#8283] improvement(cli): Exit with error when both --comment and --rename are missing in fileset update - 2025-08  
+  PR: [#8324](https://github.com/apache/gravitino/pull/8324)  
 - [#8199] improvement(core): correct lock type in TreeLock log messages - 2025-08  
   PR: [#8268](https://github.com/apache/gravitino/pull/8268)  
 - [#8200] improvement(core): throw exception when unlocking without an active lock in TreeLock - 2025-08  
